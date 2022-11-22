@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "rating": 9
+    },
+    {
+      "id": 2,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": 8
+    },
+    {
+      "id": 3,
+      "title": "Guards! Guards!",
+      "author": "Terry Pratchett",
+      "rating": 10
+    },
+    {
+      "id": 4,
+      "title": "Mort",
+      "author": "Terry Pratchett",
+      "rating": 10
+    },
+    {
+      "title": "Men at Arms ",
+      "author": "Terry Pratchett",
+      "rating": "9",
+      "id": 5
+    },
+    {
+      "title": "Feet of Clay",
+      "author": "Terry Pratchett",
+      "rating": "10",
+      "id": 6
+    },
+    {
+      "title": "The Colour of Magic",
+      "author": "Terry Pratchett",
+      "rating": "8",
+      "id": 7
+    },
+    {
+      "title": "Dune ",
+      "author": "Frank Herbert",
+      "rating": "10",
+      "id": 8
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "rating": "10",
+      "id": 9
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "rating": "7",
+      "id": 10
+    }
+  ]
+}
